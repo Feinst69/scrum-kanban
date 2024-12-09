@@ -8,7 +8,12 @@ Julien Ract-Mugnerot
 Hedi Zarrouck
 Alexandre Teissier
 
-## Introduction
+## Lien vers la présentation:
+https://
+
+
+---------------------------------------------
+
 
 ## Veille Technologique sur la méthode Agile Scrum
 
@@ -58,20 +63,64 @@ La méthode Scrum est une approche agile qui favorise la collaboration, l'adapta
 - **Engagement de l'équipe** : L'autonomie des membres et leur implication dans les décisions créent un environnement motivant.
 Scrum transforme la manière de travailler et garantit une approche flexible et centrée sur les résultats.
 
+---------------------------------------------
 
-### Organisation des équipes sur le projet fictif
 
-#### Global
+## Introduction
+
+
+## Choix de l'idée de notre application
+
+### **Système de gestion de la circulation routière**
+Optimiser les feux de circulation dans une ville afin de fluidifier le trafic, réduire les
+embouteillages et les émissions de CO2.
+
+
+---------------------------------------------
+
+
+## Rôles et Phases de la méthode Scrum appliqué sur notre projet
+
+###  Les rôles nécessaires dans Scrum
+Dans le cadre de Scrum, les rôles sont volontairement limités à trois pour favoriser la simplicité et la clarté des responsabilités.
+
+- **Product Owner (PO)** : Responsable de maximiser la valeur du produit. Il gère et priorise le backlog produit, représente les parties prenantes et veille à ce que l'équipe développe ce qui a le plus d'impact.
+- **Scrum Master** : Facilite le processus Scrum, supprime les obstacles et assure que l'équipe respecte les principes Scrum. C'est un coach pour l'équipe.
+- **Équipe de développement** : Composée de membres polyvalents, cette équipe auto-organisée est chargée de réaliser les tâches nécessaires pour livrer un produit incrémental à la fin de chaque sprint.
+
+- Autres rôles envisageable:
+
+### Les phases
+FAIRE LE CROISEMENT ENTRE CA ET LA PARTIE ORGANISATION DESSOUS
+
+- **Sprint** : Réunion en interne fixe où l'équipe se concentre sur un ensemble de tâches prioritaires.
+- **Sprint Planning** : Réunion pour planifier le travail à effectuer durant le sprint. Les tâches sont sélectionnées à partir du backlog produit.
+- **Daily Scrum** : Réunion quotidienne de 15 minutes pour synchroniser l'équipe, discuter de l'avancement et identifier les obstacles.
+- **Sprint Review** : Réunion en fin de sprint pour présenter l'incrément produit aux parties prenantes et recueillir leurs retours.
+- **Sprint Retrospective** : Analyse interne en fin de sprint pour identifier ce qui a bien fonctionné et ce qui doit être amélioré.
+
+### Artefacts clés
+
+- **Product Backlog** : Liste des tâches priorisées maintenue par le Product Owner.
+- **Sprint Backlog** : Liste des tâches sélectionnées pour un sprint spécifique.
+- **Incrément** : Version fonctionnelle et potentiellement livrable du produit.
+
+
+# ***((FUSIONER CES DEUX LA EN UN SEUL ELEMENT))***
+
+## Organisation des équipes sur le projet fictif
+
+### Global
 
 - Sprint d'une durée de deux semaines se concluant par un sprint review pour présenter les fonctionnalités implémentés à l'occasion de cette période de travail effectif.
 
 
-#### Interne
+### Interne
 
-- **Réunion Bihebdomadaire** `(Lundi & Vendredi)` Dédié à la discussion sur les grands axes du projet et la répartition des tâches ainsi que l'estimation du temps nécessaire à leur implémentation.
+- **Réunion Bihebdomadaire** `(Lundi & Vendredi)` Dédié à la discussion sur les grands axes du projet et a la répartition des tâches ainsi que l'estimation du temps nécessaire à leur implémentation.
 - **Réunion quotidienne** `(Daily de mardi à jeudi)` debout pour résumer l'activité de la journée précédente, signaler les points bloquants rencontrés ainsi que les problématiques à venir et communiquer afin de les résoudre.
 
-#### Communication avec le client
+### Communication avec le client
 - **Compte-rendu** `quotidien` réalisés par le Scrum Master pour proposer une tracabilité de l'avancé du projet au client et obtenir des retours impactant l'exécution du projet le plus rapidement possible.
 - **Réunion Hebdomadaire** `mardi` entre le Scrum Master et le client pour communiquer sur la mise en oeuvre du projet ainsi que faciliter les échanges pour s'assurer que le produit final corresponde bien à la vision du client et qu'il puisse demander à ce que des modifications soient apportées, sur l'aspect technique tout comme sur l'interface visuelle back vu que la réalisation d'un front n'est pas nécessaire sur ce projet.
 (a ponctuer comme phrase)
@@ -80,14 +129,77 @@ Scrum transforme la manière de travailler et garantit une approche flexible et 
 - `Suivi de Projet`
   - Trello/Kanban Github
   - Comptes Rendus quotidients
-### Outils utilisés
+---------------------------------------------
 
-#### Technique
+## Simulations :
+
+### Simulations de Sprint Plannings
+
+- (Kawther) : simuler la priorisation des user stories en
+fonction des besoins des parties prenantes.
+
+### Simulations de Daily Scrum
+
+- Dialogues moi fait ceci lui fait cela, problématique à anticiper et machin besoin d'aide pour résoudre un soucis
+
+### Simulations de tests
 
 
-#### Organisationnel
+### Simulations de Sprint Reviews
+
+- (Kawther) Ex 2 (Sprint Review) : présenter un prototype avec des feedback
+simulés.
+
+### Simulations de phases de développement
+
+grande ligne des phases et roadmap
+
+---------------------------------------------
+
+## Mise en place des outils de gestion de projet
+
+Trello, tableau
+Kanban, user stories, Burndown Chart, Diagramme de Gantt, etc.
 
 
-### Chronologie
 
-on fout roadmap ici ?
+### Technique
+
+
+### Organisationnel
+
+### ...
+
+
+
+- `Suivi de Projet`
+  - Trello/Kanban Github
+  - Mise en place d'un espace ``Teams`` de chat, de partage de documents et de compte-rendu.
+  - Comptes Rendus quotidients sur Word ou mieux de préférence
+
+---------------------------------------------
+
+## représentation théâtrale
+
+Fuck non je serais malade lundi, trouvez une marionette avec ma tête.
+
+edit: ah non pas besoin de la faire pendant la présentation
+
+---------------------------------------------
+
+## Rendu attendu:
+
+L’évaluation de ce projet se fera sur deux aspects :
+1. Une présentation explicative de votre travail sous forme de
+diapositives. Limitez le texte et incluez des icônes visuelles pour
+représenter les concepts clés. Ajoutez une diapositive finale avec les
+bénéfices mesurables de Scrum.
+
+2. Un repository github public nommé scrum-kanban, contenant les
+éléments suivants :
+a. Une documentation complète : Rédigez un guide clair dans un
+fichier PDF structuré en sections : Introduction, Rôles, Événements,
+Artefacts, Étude de cas.
+b. Un README.md : expliquez le contexte du projet, ses objectifs.
+
+---------------------------------------------
