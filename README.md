@@ -53,8 +53,7 @@ Ce document présente un guide complet pour la méthode Scrum, un cadre de trava
 
 ## Références
 
-Basé sur des études et principes décrits dans :  
-- Siepe, B. S. et al. (2024). [Simulation Studies for Methodological Research in Psychology](https://doi.org/10.31234/osf.io/ufgy6).
+Basé sur des études et principes décrits dans :
 - https://www.4tempsdumanagement.com/2-56-Le-Scrum-une-methode-pour-optimiser-l-action-collective_a7698.html
 ---
 
